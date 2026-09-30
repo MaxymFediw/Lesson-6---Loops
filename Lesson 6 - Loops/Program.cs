@@ -8,7 +8,7 @@ namespace Lesson_6___Loops
 {
     internal class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args) //Maxym F.
         {
 
 
